@@ -15,3 +15,5 @@ Todo for DCA app:
 
 DEMO recording:
 https://drive.google.com/file/d/1wbcc07_PN418forCU3nSZ7n_CfGlHhyn/view?usp=drive_link
+
+Note: the calculation can be a bit slow, due to API limitations
